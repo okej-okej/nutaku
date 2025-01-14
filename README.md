@@ -8,7 +8,7 @@ creating AA segment games available to all players, mainly thanks to such
 platforms as Steam, Epic Games Store and console platforms.
 
 Development prospects
-INTERMARUM S.A. in 2023 will continue the development strategy adopted
+will continue the development strategy adopted
 by the Management Board on January 8, 2021. The main assumption of the strategy is to create
 a significant Company on the Gamedev industry market in Poland, capable of competing with leading
 game producers, ready to acquire and develop unique competences in the field of
